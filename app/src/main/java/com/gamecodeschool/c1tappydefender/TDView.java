@@ -71,6 +71,8 @@ public class TDView extends SurfaceView implements Runnable {
     private SharedPreferences.Editor editor;
 
 
+    
+
     TDView(Context context, int x, int y) {
         super(context);
         this.context  = context;
